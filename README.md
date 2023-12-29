@@ -1,4 +1,4 @@
-# Stock Dashboard using Streamlit
+# Stock Dashboard
 
 This is a stock dashboard web application created using Python and Streamlit. The dashboard allows users to visualize stock price movements, explore fundamental data, and read the top news related to a specified stock.
 
